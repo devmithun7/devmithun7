@@ -1,6 +1,5 @@
 ### Hi👋
-I'm Dev Mithunisvar Premraj, an aspiring software engineer and data enthusiast. I'm currently mastering Information Systems at Northeastern University, honing my skills in Python, Java, and Big Data technologies. With a background in Electrical and Electronics Engineering from Anna University, I blend a strong technical foundation with a passion for data-driven solutions. My experience at LTIMINDTREE as a Software Engineer involved creating impactful data pipelines and optimizing ETL processes. I'm passionate about leveraging machine learning and AWS technologies to solve complex problems. Check out my projects ranging from e-commerce data engineering to disaster management apps, showcasing my journey in making data more accessible and insightful.
-
+As a Master's candidate in Information Systems at Northeastern University, with a projected graduation in May 2025, I am cultivating a robust technical foundation underscored by hands-on experience in Data Engineering and Machine Learning. During my tenure as a Software Engineer at LTIMindtree, I learned advanced skills in SQL, Spark, and data processing techniques like ETL/ELT. Additionally, I gained proficiency in integrating Python-based machine learning algorithms into systems, enhancing analytical capabilities. Additionally, my research, which has gained recognition at an international level, delves into the critical area of energy management, focusing on innovative approaches to power consumption forecasting using Machine Learning. My academic and professional journey reflects a deep-seated enthusiasm for technology and an aptitude for problem-solving, equipping me to thrive in both independent and collaborative, fast-paced environments. My passion for continuously learning and applying logical reasoning to drive successful outcomes, gets me going every day. I hope to engage visitors by offering a glimpse into my world and showcasing the skills and creativity that have shaped my career.
 
 ## Tools and Technologies
 
@@ -15,54 +14,3 @@ I'm Dev Mithunisvar Premraj, an aspiring software engineer and data enthusiast. 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-Prathamesh Kulkarni
-Username: PrathamHusky07
-
-About Me:
-- Currently pursuing a Master's in Information Systems from Northeastern University.
-- Interested in roles related to Data Science, Data Engineering, Data Analysis, Machine Learning & Artificial Intelligence.
-- Working on Developing Large Language Models using Generative AI.
-- Looking to collaborate on Big Data Analytics, Data Science & Machine Learning Projects.
-- Reach out at prathamesh.kulkarni2398@gmail.com
-- Fun fact: Likes watching European football.
-
-Education:
-- Master's in Information Systems, Northeastern University, Boston, MA
-
-Contact:
-- Email: prathamesh.kulkarni2398@gmail.com
-- Portfolio: https://portfolioprathamesh1.netlify.app/
-
-Achievements:
-- [Various badges and icons representing achievements]
-
-Technology Stack:
-- Python, PyTorch, Scikit-Learn, SciPy, Pandas, NumPy, Airflow, Streamlit
-- GitHub, FastAPI, Amazon AWS, HTML5, CSS, JavaScript, MySQL, Keras
-- TensorFlow, OpenCV, Plotly, GitHub Actions, Docker, Google Cloud Platform
-- Apache Spark, OpenAI, PostgreSQL
-
-Connect with me:
-- [LinkedIn icon]
-- [Instagram icon]
-
-Most Used Languages:
-- Jupyter Notebook: 97.70%
-- JavaScript: 1.46%
-- Python: 0.30%
-- CSS: 0.26%
-- SCSS: 0.19%
-- HTML: 0.10%
-
-GitHub Stats:
-- Total Stars Earned: 0
-- Total Commits (2024): 336
-- Total PRs: 129
-- Total Issues: 1
-- Contributed to (last year): 6
-- GitHub Grade: B-
-
-Languages and Tools:
-- [Icons representing various programming languages and tools]
