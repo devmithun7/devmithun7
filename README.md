@@ -30,13 +30,13 @@ As a Master's candidate in Information Systems at Northeastern University, with 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Certifications
-![Tableau Certified Desktop Specialist](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
-![AWS Solution Architect](https://img.shields.io/badge/AWS_Solution_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ### Web Development Technologies
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+### Certifications
+![Tableau Certified Desktop Specialist](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS Solution Architect](https://img.shields.io/badge/AWS_Solution_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Certified: Azure Data Engineer Associate](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
