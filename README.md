@@ -37,6 +37,6 @@ As a Master's candidate in Information Systems at Northeastern University, with 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Certifications
-![Tableau Certified Desktop Specialist](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau Data Analyst](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
 ![AWS Solution Architect](https://img.shields.io/badge/AWS_Solution_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Certified: Azure Data Engineer Associate](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
