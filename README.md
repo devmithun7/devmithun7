@@ -1,19 +1,34 @@
-# Forrest Knight
+# Welcome to My GitHub!
 
-**Digital Craftsman (Student/S/Creator)**
+Hello! I'm currently a Master's candidate in Information Systems at Northeastern University, expecting to graduate in May 2025. My academic and professional journey is rooted in a deep-seated enthusiasm for technology and problem-solving.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight](https://www.youtube.com/ForrestKnight)" to more than 400k subscribers.
+## 🎓 Academic Background
 
-<p align="left">
-<a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-<a href="https://www.youtube.com/c/fknight">
-<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%231DA1F2&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-<a href="https://github.com/ForrestKnight?tab=followers">
-<img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=233d58&label=Follow&logo=github-person-add&logoColor=white"/></a>
-<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+I specialize in Data Engineering and Machine Learning, with a focus on innovative approaches to energy management. My research on power consumption forecasting using Machine Learning has been recognized at an international level.
+
+## 💼 Professional Experience
+
+Previously, I worked as a Software Engineer at LTIMindtree, where I developed advanced skills in:
+- **SQL & Spark**
+- **Data Processing Techniques** (ETL/ELT)
+- **Python-based Machine Learning Algorithms**
+
+These experiences have enhanced my analytical capabilities and equipped me to thrive in both independent and collaborative, fast-paced environments.
+
+## 🌟 Passions and Interests
+
+Each day, my drive for continuous learning and applying logical reasoning to drive successful outcomes keeps me motivated. I am passionate about exploring new technologies and applying my skills to solve complex problems.
+
+## 📈 My Projects
+
+Here you can link to some of your noteworthy projects or repositories that reflect your skills and areas of interest.
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](your-linkedin-url) or drop me an email at [your-email](mailto:devmithunisvar@gmail.com).
+
+Thank you for visiting my profile. I hope to collaborate with like-minded individuals and contribute to innovative projects!
+
 
 
 ## Tools and Technologies
