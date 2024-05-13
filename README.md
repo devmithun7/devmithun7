@@ -9,7 +9,7 @@ I specialize in Data Engineering and Machine Learning, with a focus on innovativ
 ## 💼 Professional Experience
 
 Previously, I worked as a Software Engineer at LTIMindtree, where I developed advanced skills in:
-- **SQL & Spark**
+- **SQL & Spark** 
 - **Data Processing Techniques** (ETL/ELT)
 - **Python-based Machine Learning Algorithms**
 
