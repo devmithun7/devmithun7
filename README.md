@@ -1,5 +1,20 @@
-### Hi👋
-As a Master's candidate in Information Systems at Northeastern University, with a projected graduation in May 2025, I am cultivating a robust technical foundation underscored by hands-on experience in Data Engineering and Machine Learning. During my tenure as a Software Engineer at LTIMindtree, I learned advanced skills in SQL, Spark, and data processing techniques like ETL/ELT. Additionally, I gained proficiency in integrating Python-based machine learning algorithms into systems, enhancing analytical capabilities. Additionally, my research, which has gained recognition at an international level, delves into the critical area of energy management, focusing on innovative approaches to power consumption forecasting using Machine Learning. My academic and professional journey reflects a deep-seated enthusiasm for technology and an aptitude for problem-solving, equipping me to thrive in both independent and collaborative, fast-paced environments. My passion for continuously learning and applying logical reasoning to drive successful outcomes, gets me going every day. I hope to engage visitors by offering a glimpse into my world and showcasing the skills and creativity that have shaped my career.
+# Forrest Knight
+
+**Digital Craftsman (Developer/Filmmaker/Creator)**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight](https://www.youtube.com/ForrestKnight)" to more than 400k subscribers.
+
+<p align="left">
+<a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+<a href="https://www.youtube.com/c/fknight">
+<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%231DA1F2&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+<a href="https://github.com/ForrestKnight?tab=followers">
+<img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=233d58&label=Follow&logo=github-person-add&logoColor=white"/></a>
+<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 
 ## Tools and Technologies
 
