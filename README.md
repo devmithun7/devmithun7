@@ -29,9 +29,12 @@ Thank you for visiting my profile. I hope to collaborate with like-minded indivi
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical" alt="Dev Mithunisvar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmithun7&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="420" style="margin-right: 10px;"/>
+  <!-- Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmithun7&layout=compact&theme=radical&hide_border=true" width="420"/>
 </p>
+
 
 
 ## Tools and Technologies
