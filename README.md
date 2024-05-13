@@ -46,7 +46,6 @@ Thank you for visiting my profile. I hope to collaborate with like-minded indivi
 ![](https://img.shields.io/badge/MLOps-github_actions-lightgrey?style=for-the-badge&logo=githubactions)
 ![](https://img.shields.io/badge/MLOps-Grafana-black?style=for-the-badge&logo=grafana)
 ![](https://img.shields.io/badge/MLOps-Kubernetes-lightblue?style=for-the-badge&logo=kubernetes)
-![](https://img.shields.io/badge/MLOps-Apache_Airflow-blue?style=for-the-
 
 ### Certifications
 ![Tableau Data Analyst](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
