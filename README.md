@@ -28,7 +28,7 @@ Thank you for visiting my profile. I hope to collaborate with like-minded indivi
 
 ![Dev Mithunisvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmithun7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmithun7&layout=compact&theme=radical)
 
 ## Tools and Technologies
 ![](https://img.shields.io/badge/OS-Linux-green?style=for-the-badge&logo=linux)
