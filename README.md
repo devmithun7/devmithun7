@@ -31,6 +31,8 @@ Thank you for visiting my profile. I hope to collaborate with like-minded indivi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical)
+
 
 ## Tools and Technologies
 
