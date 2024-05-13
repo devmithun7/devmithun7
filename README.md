@@ -34,39 +34,22 @@ Thank you for visiting my profile. I hope to collaborate with like-minded indivi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmithun7&layout=compact)
 
 ## Tools and Technologies
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=Talend&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-### Cloud Technologies
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Web Development Technologies
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-green?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=for-the-badge&logo=intellijidea)
+![](https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-Makefile-lightgrey?style=for-the-badge&logo=gnu)
+![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnubash)
+![](https://img.shields.io/badge/Tools-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/ML/DL-PyTorch-red?style=for-the-badge&logo=pytorch)
+![](https://img.shields.io/badge/ML/DL-Keras-red?style=for-the-badge&logo=keras)
+![](https://img.shields.io/badge/ML/DL-TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/ML/DL-Plotly-lightgrey?style=for-the-badge&logo=plotly)
+![](https://img.shields.io/badge/MLOps-Google_Cloud-black?style=for-the-badge&logo=googlecloud)
+![](https://img.shields.io/badge/MLOps-github_actions-lightgrey?style=for-the-badge&logo=githubactions)
+![](https://img.shields.io/badge/MLOps-Grafana-black?style=for-the-badge&logo=grafana)
+![](https://img.shields.io/badge/MLOps-Kubernetes-lightblue?style=for-the-badge&logo=kubernetes)
+![](https://img.shields.io/badge/MLOps-Apache_Airflow-blue?style=for-the-
 
 ### Certifications
 ![Tableau Data Analyst](https://img.shields.io/badge/Tableau_Certified-2C2255?style=for-the-badge&logo=tableau&logoColor=white)
