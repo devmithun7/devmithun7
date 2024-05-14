@@ -11,6 +11,8 @@ Each day, my drive for continuous learning and applying logical reasoning to dri
 
 Here you can link to some of your noteworthy projects or repositories that reflect your skills and areas of interest.
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 ## 📫 How to Reach Me
  
 Feel free to connect with me on [LinkedIn](your-linkedin-url) or drop me an email at [devmithunisvar@gmail.com](mailto:devmithunisvar@gmail.com).
