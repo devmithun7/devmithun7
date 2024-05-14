@@ -1,6 +1,3 @@
-<div style="height: 200px; background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);">
-</div>
-
 # Welcome to My GitHub!
 
 Hello! I'm currently a Master's candidate in Information Systems at Northeastern University, expecting to graduate in May 2025. My academic and professional journey is rooted in a deep-seated enthusiasm for technology and problem-solving.
