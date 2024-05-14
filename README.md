@@ -11,21 +11,8 @@ Each day, my drive for continuous learning and applying logical reasoning to dri
 
 Here you can link to some of your noteworthy projects or repositories that reflect your skills and areas of interest.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmithun7&repo=AI-healthcare-System)](https://github.com/devmithun7/AI-healthcare-System)
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td valign="top">
-      <img src= [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmithun7&repo=AI-healthcare-System)](https://github.com/devmithun7/AI-healthcare-System) />
-    </td>
-    <!-- Adding a spacer column for space between cards -->
-    <td width="30"></td>
-    <!-- Most Used Languages -->
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmith-7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmithun7&repo=AI-healthcare-System&theme=radical)](https://github.com/devmithun7/AI-healthcare-System)
+
 ## 🚀 GitHub Stats
 
 <table>
