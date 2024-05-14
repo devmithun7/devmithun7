@@ -34,8 +34,8 @@ Here you can link to some of your noteworthy projects or repositories that refle
 
 
 ## Tools and Technologies
-![](https://img.shields.io/badge/OS-Linux-green?style=for-the-badge&logo=linux)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=for-the-badge&logo=intellijidea)
+![](https://img.shields.io/badge/OS-Linux-green?style=for-the-badge&logo=linux&theme=radical)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=for-the-badge&logo=intellijidea&theme=radical)
 ![](https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Code-Makefile-lightgrey?style=for-the-badge&logo=gnu)
 ![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnubash)
