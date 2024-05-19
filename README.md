@@ -20,13 +20,13 @@ Here you can link to some of your noteworthy projects or repositories that refle
   <tr>
     <!-- GitHub Stats --> 
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=devmithun7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+      <img src="https://github-readme-stats.vercel.app/api?username=devmith-7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
     </td>
     <!-- Adding a spacer column for space between cards -->
     <td width="30"></td>
     <!-- Most Used Languages -->
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmith-7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmith-7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
