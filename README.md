@@ -59,7 +59,7 @@ Here you can link to some of your noteworthy projects or repositories that refle
 
 ## 📫 How to Reach Me
  
-Feel free to connect with me on [LinkedIn](your-linkedin-url) or drop me an email at [devmithunisvar@gmail.com](mailto:devmithunisvar@gmail.com).
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/dev-mithunisvar-premraj) or drop me an email at [devmithunisvar@gmail.com](mailto:devmithunisvar@gmail.com).
 
 Thank you for visiting my profile. I hope to collaborate with like-minded individuals and contribute to innovative projects!
 
