@@ -11,8 +11,6 @@ Each day, my drive for continuous learning and applying logical reasoning to dri
 
 Here you can link to some of your noteworthy projects or repositories that reflect your skills and areas of interest.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmithun7&repo=AI-healthcare-System&theme=radical)](https://github.com/devmithun7/AI-healthcare-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavvaryani&repo=us-accident-prediction&theme=radical)](https://github.com/arnavvaryani/us-accident-prediction)
 
 ## 🚀 GitHub Stats
 
