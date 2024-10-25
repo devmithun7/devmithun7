@@ -14,6 +14,7 @@ Here you can link to some of your noteworthy projects or repositories that refle
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmithun7&repo=AI-healthcare-System&theme=radical)](https://github.com/devmithun7/AI-healthcare-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavvaryani&repo=us-accident-prediction&theme=radical)](https://github.com/arnavvaryani/us-accident-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavvaryani&repo=us-accident-prediction&theme=radical)](https://github.com/devmithun7/Data-Validation-and-Cleaning-using-DBT-Pytest-and-Pydantic)
 
 ## 🚀 GitHub Stats
 
