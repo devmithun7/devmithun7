@@ -8,7 +8,7 @@ As a Master's candidate in Information Systems at Northeastern University, with 
 Each day, my drive for continuous learning and applying logical reasoning to drive successful outcomes keeps me motivated. I am passionate about exploring new technologies and applying my skills to solve complex problems.
 
 ## 📈 My Projects
-
+ 
 Here you can link to some of your noteworthy projects or repositories that reflect your skills and areas of interest.
 
 
