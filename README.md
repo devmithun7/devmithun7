@@ -1,11 +1,8 @@
 # Welcome to My GitHub!
 
-Hello! I'm currently a Master's candidate in Information Systems at Northeastern University, expecting to graduate in May 2025. I’m a data-focused problem-solver who’s always looking for new ways to make technology work smarter. My background includes hands-on data engineering experience—working with SQL, Spark, and ETL/ELT pipelines—as well as integrating Python-based machine learning algorithms to deliver more insightful analytics. I’ve also explored how machine learning can optimize energy management, tackling the challenge of predicting power consumption more accurately.
+I see data as the raw material of solutions, its context, signals, and opportunities to build smarter systems. I enjoy working at the point where raw information becomes useful: designing pipelines that scale, deploying models that solve real problems, and creating dashboards that bring clarity to teams who need it.
 
-What drives me is a combination of curiosity, logical thinking, and a desire to keep learning. I’ve thrived in both independent projects and fast-paced, team-based settings, where I enjoy sharing ideas and coming up with creative solutions. This blend of technical skill and adaptability is what motivates me to keep pushing the boundaries of what data and technology can do.
-## 🌟 Passions and Interests
-
-Each day, my drive for continuous learning and applying logical reasoning to drive successful outcomes keeps me motivated. I am passionate about exploring new technologies and applying my skills to solve complex problems.
+My work spans Python, SQL, Databricks, Airflow, Snowflake, and the cloud (AWS, Azure, GCP). I’ve also explored machine learning, NLP, and visualization through tools like Tableau and Power BI. What keeps me motivated is curiosity, learning new ways to make data accessible, reliable, and impactful.
 
 ## 📈 My Projects
  
