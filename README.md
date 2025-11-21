@@ -48,3 +48,4 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/dev-mithunisv
 
 Thank you for visiting my profile. I hope to collaborate with like-minded individuals and contribute to innovative projects!
 
+![Profile Views](https://komarev.com/ghpvc/?username=devmithun7&color=blue)
