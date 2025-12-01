@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a data engineer passionate about building scalable p
 - 🎓 I’m currently pursuing my **Master’s in Information Systems at Northeastern University, Boston (Dec 2025)**  
 - 💼 Previously worked as:
   - **Data Analyst Intern at Boehringer Ingelheim** - Built Tableau dashboards, automated data pipelines, and improved data quality across large-scale healthcare campaigns.
-  - **Data Engineer Intern at LTIMIndtree** - Engineered scalable data pipelines and optimized analytics workflows to deliver reliable, high-impact insights.
+  - **Data Engineer Intern at LTIMIndtree** - Engineered scalable data pipelines and optimized analytics workflows to deliver reliable insights.
   - **Data Quality & Analytics** – DBT models, unit tests, DQ frameworks, dashboard design  
 - 🤖 Currently exploring **GenAI, Python agents, RAG systems, and healthcare ML**
 - 🤝 Open to collaborating on **data engineering, AI/ML, BI, and research projects**
