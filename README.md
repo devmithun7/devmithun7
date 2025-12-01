@@ -29,12 +29,12 @@ Here are some of my key projects hosted on GitHub:
   RAG-powered medication query engine integrating medical data ingestion, vector search, and chatbot interaction  
   *LLMs • RAG • LangChain • FastAPI • Snowflake*
 
-- **MindAid**
-  LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support.  
-
+- **MindAid**  
+  LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support  
+  *Falcon-7B • RAG • Streamlit • Pinecone • Docker*
 
 - **Python Coding Agent (Exploratory)**  
-  Intelligent Python helper agent for automated data tasks  
+  Intelligent Python helper agent for automated data transformation and code generation  
   *Agents • Tools API • OpenAI*
 
 ---
