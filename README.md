@@ -25,13 +25,12 @@ Here are some of my key projects hosted on GitHub:
 
 ### 🧠 GenAI & AI Projects
 
--**[AI Healthcare System]()**  
+- **[AI Healthcare System]()**  
   RAG-powered medication query engine integrating medical data ingestion, vector search, and chatbot interaction  
   *LLMs • RAG • LangChain • FastAPI • Snowflake*
 
 - **MindAid**
-LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support.  
-🔗 Live App: http://3.88.118.67:8501/
+  LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support.  
 
 
 - **Python Coding Agent (Exploratory)**  
