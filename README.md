@@ -25,13 +25,14 @@ Here are some of my key projects hosted on GitHub:
 
 ### 🧠 GenAI & AI Projects
 
-- **[AI Healthcare System]()**  
+-**[AI Healthcare System]()**  
   RAG-powered medication query engine integrating medical data ingestion, vector search, and chatbot interaction  
   *LLMs • RAG • LangChain • FastAPI • Snowflake*
 
-- **EventLens (In Progress)**  
-  AI-powered event discovery platform using embeddings and modern data pipelines  
-  *NLP • Embeddings • Data Engineering*
+-### 🧠 MindAid  
+LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support.  
+🔗 Live App: http://3.88.118.67:8501/
+
 
 - **Python Coding Agent (Exploratory)**  
   Intelligent Python helper agent for automated data tasks  
@@ -45,7 +46,7 @@ Here are some of my key projects hosted on GitHub:
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
   *Azure Data Factory • Snowflake • Tableau*
 
-  - **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
+- **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
   *Azure Data Factory • Snowflake • Tableau*
 
