@@ -25,17 +25,15 @@ Here are some of my key projects hosted on GitHub:
 
 ### 🧠 GenAI & AI Projects
 
-- **[AI Healthcare System]()**  
+- **[AI Healthcare System](https://github.com/devmithun7/AI-Healthcare-System)**  
   RAG-powered medication query engine integrating medical data ingestion, vector search, and chatbot interaction  
-  *LLMs • RAG • LangChain • FastAPI • Snowflake*
+  *LLAMA • RAG • LangChain • • Streamlit • Pinecone • FastAPI • Snowflake • Python • SQL • Beautifulsoup*
 
-- **MindAid**  
+- **[Mindaid](https://github.com/devmithun7/MindAid)**  
   LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support  
   *Falcon-7B • RAG • Streamlit • Pinecone • Docker*
 
-- **Python Coding Agent (Exploratory)**  
-  Intelligent Python helper agent for automated data transformation and code generation  
-  *Agents • Tools API • OpenAI*
+
 
 ---
 
@@ -43,9 +41,9 @@ Here are some of my key projects hosted on GitHub:
 
 - **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Azure Data Factory • Snowflake • Tableau*
+  *Azure Data Factory • Snowflake • Tableau • Python • SQL • Alteryx*
 
-- **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
+- **[Iowa Liquor Sales Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
   *Azure Data Factory • Snowflake • Tableau*
 
@@ -61,7 +59,9 @@ Here are some of my key projects hosted on GitHub:
   ML system analyzing accident severity and risk patterns  
   *EDA • ML Models • Python*
 
-  
+- **[US Accident Prediction (Collaborative Project)](https://github.com/arnavvaryani/us-accident-prediction)**  
+  ML system analyzing accident severity and risk patterns  
+  *EDA • ML Models • Python* 
 ---
 
 ## 🛠 Technical Skills
