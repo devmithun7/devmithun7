@@ -27,7 +27,7 @@ Here are some of my key projects hosted on GitHub:
 
 - **[AI Healthcare System](https://github.com/devmithun7/AI-Healthcare-System)**  
   RAG-powered medication query engine integrating medical data ingestion, vector search, and chatbot interaction  
-  *LLAMA • RAG • LangChain • • Streamlit • Pinecone • FastAPI • Snowflake • Python • SQL • Beautifulsoup*
+  *LLAMA • RAG • LangChain • Streamlit • Pinecone • FastAPI • Snowflake • Python • SQL • Beautifulsoup*
 
 - **[Mindaid](https://github.com/devmithun7/MindAid)**  
   LLM-powered mental health assistant with ML models, RAG search, and a Streamlit app for personalized counseling support  
