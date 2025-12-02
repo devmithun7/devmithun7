@@ -52,6 +52,10 @@ Here are some of my key projects hosted on GitHub:
   Industrial-style data quality framework using schema validation, tests, and CI/CD  
   *DBT • Snowflake • Data Modeling • GitHub Actions*
 
+- [Tableau Data Visualization Portfolio](https://github.com/devmithun7/Tableau-Public-Portfolio)
+  Collection of interactive dashboards covering retail, public safety, and food compliance analytics, showcasing end-to-end data storytelling and insight generation  
+  *Tableau • Data Visualization • Analytics • Storytelling*
+
 ---
 
 ### 📊 Machine Learning Projects
