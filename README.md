@@ -40,15 +40,15 @@ Here are some of my key projects hosted on GitHub:
 
 - **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Azure Data Factory • Snowflake • Tableau • Python • SQL • Alteryx*
+  *Azure Data Factory • Snowflake • Data Modeling • Tableau • Python • SQL • Alteryx*
 
 - **[Iowa Liquor Sales Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Talend • Snowflake • Power BI • Python • SQL • Alteryx*
+  *Talend • Snowflake • Power BI • • Data Modeling • Python • SQL • Alteryx*
 
-- **[Data Validation with DBT, Pytest & Pydantic](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
+- **[DBT Commercial Analytics Data Model](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
   Industrial-style data quality framework using schema validation, tests, and CI/CD  
-  *DBT • Pydantic • Pytest • GitHub Actions*
+  *DBT • Snowflake • Data Modeling • GitHub Actions*
 
 ---
 
@@ -58,7 +58,7 @@ Here are some of my key projects hosted on GitHub:
   ML system analyzing accident severity and risk patterns  
   *EDA • ML Models • Python*
 
-- **[US Accident Prediction](https://github.com/arnavvaryani/us-accident-prediction)**  
+- **[Sentiment Analysis using LSTM](https://github.com/devmithun7/Sentiment-Analysis-using-LSTM)**  
   ML system analyzing accident severity and risk patterns  
   *EDA • ML Models • Python* 
 ---
@@ -66,10 +66,13 @@ Here are some of my key projects hosted on GitHub:
 ## 🛠 Technical Skills
 
 ### 💻 Languages  
-**Python • SQL • PySpark • Scala • Java • Bash**
+**Python • SQL • PySpark • Scala • Java • Typescript**
 
-### 🏗 Data Engineering  
-**Snowflake • Databricks • Airflow • Kafka • DBT • Redshift • BigQuery • Postgres • MySQL • Delta Lake • Docker**
+### 🏗 Database/Warehouse  
+**Snowflake • Redshift • BigQuery • DynamoDB • Delta Lake**
+
+### 🏗 Database/Warehouse  
+**Snowflake • Databricks • Airflow • Kafka • DBT • Pyspark • Flink • Lambda • Azure Datafactory • Alteryx • Docker**
 
 ### 🤖 Machine Learning & AI  
 **PyTorch • TensorFlow • Scikit-learn • LangChain • RAG • NLP • Transformers • OpenAI APIs**
