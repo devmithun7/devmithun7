@@ -66,7 +66,7 @@ Here are some of my key projects hosted on GitHub:
 
 - **[Sentiment Analysis using LSTM](https://github.com/devmithun7/Sentiment-Analysis-using-LSTM)**  
  Deep learning model classifying Amazon customer reviews using LSTM and distributed training  
-  *NLP • LSTM • Distributed Training (DDP) • Python*
+  *NLP • LSTM • Distributed Training (DDP) • Pytorch*
 ---
 
 ## 🛠 Technical Skills
