@@ -46,7 +46,7 @@ Here are some of my key projects hosted on GitHub:
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
   *Talend • Snowflake • Power BI • Data Modeling • Python • SQL • Alteryx*
 
-- **[Iowa Liquor Sales Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
+- **[Optimizing Returns & Refunds in Supply Chain](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end OLTP system automating returns, refunds, customer reliability scoring, and exception handling  
   *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems*
 
