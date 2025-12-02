@@ -49,7 +49,7 @@ Here are some of my key projects hosted on GitHub:
 
 
 - **[DBT Commercial Analytics Data Model](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
-  Industrial-style data quality framework using schema validation, tests, and CI/CD  
+  Data quality framework using schema validation, tests, and CI/CD for commercial analytics with DBT, Snowflake, dimensional data modeling, and GitHub Actions automation.
   *DBT • Snowflake • Data Modeling • GitHub Actions*
 
 - **[Tableau Data Visualization Portfolio](https://github.com/devmithun7/Tableau-Public-Portfolio)**  
