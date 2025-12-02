@@ -47,9 +47,8 @@ Here are some of my key projects hosted on GitHub:
   End-to-end OLTP system automating returns, refunds, customer reliability scoring, and exception handling  
   *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems • Normalization*
 
-
 - **[DBT Commercial Analytics Data Model](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
-  Data quality framework using schema validation, tests, and CI/CD for commercial analytics with DBT, Snowflake, data modeling, and GitHub Actions automation
+  Data quality framework using schema validation, tests, and CI/CD for commercial analytics with DBT, Snowflake, data modeling, and GitHub Actions automation  
   *DBT • Snowflake • Data Modeling • GitHub Actions*
 
 - **[Tableau Data Visualization Portfolio](https://github.com/devmithun7/Tableau-Public-Portfolio)**  
