@@ -77,7 +77,7 @@ Here are some of my key projects hosted on GitHub:
 ### 🏗 Database/Warehouse  
 **Snowflake • Redshift • BigQuery • DynamoDB • Delta Lake**
 
-### 🏗 Database/Warehouse  
+### 🏗 Data Engineering  
 **Snowflake • Databricks • Airflow • Kafka • DBT • Pyspark • Flink • Lambda • Azure Datafactory • Alteryx • Docker**
 
 ### 🤖 Machine Learning & AI  
