@@ -34,7 +34,6 @@ Here are some of my key projects hosted on GitHub:
   *Falcon-7B • RAG • Streamlit • Pinecone • Docker*
 
 
-
 ---
 
 ### 📊 Data Engineering & BI Projects
@@ -45,9 +44,9 @@ Here are some of my key projects hosted on GitHub:
 
 - **[Iowa Liquor Sales Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Azure Data Factory • Snowflake • Tableau*
+  *Talend • Snowflake • Power BI • Python • SQL • Alteryx*
 
-- **[Data Validation with DBT, Pytest & Pydantic](https://github.com/devmithun7/Data-Validation-and-Cleaning-using-DBT-Pytest-and-Pydantic)**  
+- **[Data Validation with DBT, Pytest & Pydantic](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
   Industrial-style data quality framework using schema validation, tests, and CI/CD  
   *DBT • Pydantic • Pytest • GitHub Actions*
 
@@ -55,11 +54,11 @@ Here are some of my key projects hosted on GitHub:
 
 ### 📊 Machine Learning Projects
 
-- **[US Accident Prediction (Collaborative Project)](https://github.com/arnavvaryani/us-accident-prediction)**  
+- **[US Accident Prediction](https://github.com/arnavvaryani/us-accident-prediction)**  
   ML system analyzing accident severity and risk patterns  
   *EDA • ML Models • Python*
 
-- **[US Accident Prediction (Collaborative Project)](https://github.com/arnavvaryani/us-accident-prediction)**  
+- **[US Accident Prediction](https://github.com/arnavvaryani/us-accident-prediction)**  
   ML system analyzing accident severity and risk patterns  
   *EDA • ML Models • Python* 
 ---
@@ -85,9 +84,9 @@ Here are some of my key projects hosted on GitHub:
 
 ## 📜 Certifications
 
-- **Tableau Certified Data Analyst**  
-- **AWS Solutions Architect – Associate**  
-- **Microsoft Certified: Azure Data Engineer Associate**
+- **Tableau Certified Desktop Specialist**  
+- **AWS Certified Data Engineer Associate**  
+- **Snowflake SnowPro Core Certification**
 
 ---
 
