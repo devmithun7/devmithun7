@@ -40,16 +40,16 @@ Here are some of my key projects hosted on GitHub:
 
 - **[Food Inspection Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Azure Data Factory • Snowflake • Data Modeling • Tableau • Python • SQL • Alteryx*
+  *Azure Data Factory • Snowflake • dimensional Modeling • Tableau • Python • SQL • Alteryx*
 
 
 - **[Optimizing Returns & Refunds in Supply Chain](https://github.com/devmithun7/Returns-and-Refunds-Management-Using-Oracle-SQL)**  
   End-to-end OLTP system automating returns, refunds, customer reliability scoring, and exception handling  
-  *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems*
+  *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems • Normalization*
 
 
 - **[DBT Commercial Analytics Data Model](https://github.com/devmithun7/DBT-Commercial-Analytics-Data-Model)**  
-  Data quality framework using schema validation, tests, and CI/CD for commercial analytics with DBT, Snowflake, dimensional data modeling, and GitHub Actions automation.
+  Data quality framework using schema validation, tests, and CI/CD for commercial analytics with DBT, Snowflake, data modeling, and GitHub Actions automation
   *DBT • Snowflake • Data Modeling • GitHub Actions*
 
 - **[Tableau Data Visualization Portfolio](https://github.com/devmithun7/Tableau-Public-Portfolio)**  
