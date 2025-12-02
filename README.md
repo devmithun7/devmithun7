@@ -42,16 +42,8 @@ Here are some of my key projects hosted on GitHub:
   End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
   *Azure Data Factory • Snowflake • Data Modeling • Tableau • Python • SQL • Alteryx*
 
-- **[Iowa Liquor Sales Analysis](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
-  End-to-end BI solution with ETL pipelines, dimensional modeling, and Tableau dashboards  
-  *Talend • Snowflake • Power BI • Data Modeling • Python • SQL • Alteryx*
 
-- **[Optimizing Returns & Refunds in Supply Chain](https://github.com/devmithun7/BI-Implementation-for-Food-Inspection-Analysis)**  
-  End-to-end OLTP system automating returns, refunds, customer reliability scoring, and exception handling  
-  *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems*
-
-
-- **[Optimizing Returns & Refunds in Supply Chain](https://github.com/devmithun7/Returns-and-Refunds-Management-Using-Oracle-SQL)**
+- **[Optimizing Returns & Refunds in Supply Chain](https://github.com/devmithun7/Returns-and-Refunds-Management-Using-Oracle-SQL)**  
   End-to-end OLTP system automating returns, refunds, customer reliability scoring, and exception handling  
   *OLTP • PL/SQL • ERD/DFD • Oracle Database • Supply Chain Systems*
 
@@ -65,7 +57,7 @@ Here are some of my key projects hosted on GitHub:
 ### 📊 Machine Learning Projects
 
 - **[US Accident Prediction](https://github.com/arnavvaryani/us-accident-prediction)**  
-  ML system analyzing accident severity and risk patterns  
+  ML model predicting accident severity using traffic, weather, and road condition features  
   *EDA • ML Models • Python*
 
 - **[Sentiment Analysis using LSTM](https://github.com/devmithun7/Sentiment-Analysis-using-LSTM)**  
