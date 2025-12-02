@@ -59,8 +59,8 @@ Here are some of my key projects hosted on GitHub:
   *EDA • ML Models • Python*
 
 - **[Sentiment Analysis using LSTM](https://github.com/devmithun7/Sentiment-Analysis-using-LSTM)**  
-  ML system analyzing accident severity and risk patterns  
-  *EDA • ML Models • Python* 
+ Deep learning model classifying Amazon customer reviews using LSTM and distributed training  
+  *NLP • LSTM • Distributed Training (DDP) • Python*
 ---
 
 ## 🛠 Technical Skills
